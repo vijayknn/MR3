@@ -1,0 +1,33 @@
+{
+
+	"plateau": [0, 0, 0, 0],
+	
+	"cardinals": ["N", "S", "W", "E"],
+
+	"commands": ["L", "R", "M"],
+
+	"roverTurnHelper": {
+		"NL": "W",
+		"WL": "S",
+		"SL": "E",
+		"EL": "N",
+		"NR": "E",
+		"ER": "S",
+		"SR": "W",
+		"WR": "N"
+	},
+
+	"roverXmoveHelper": {
+		"N": 0,
+		"W": -1,
+		"S": 0,
+		"E": 1
+	},
+
+	"roverYmoveHelper": {
+		"N": 1,
+		"W": 0,
+		"S": -1,
+		"E": 0
+	}
+}

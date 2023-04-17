@@ -1,0 +1,52 @@
+[
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 5,5],
+		"FactoryCreationER": "",
+		"RoverCreationER": ""
+	},
+
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 7, 9],
+		"FactoryCreationER": "",
+		"RoverCreationER": ""
+	},
+
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [1, 2, 9, 6],
+		"FactoryCreationER": "",
+		"RoverCreationER": ""
+	},
+
+
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 5, 0],
+		"FactoryCreationER": "error",
+		"RoverCreationER": "error"
+	},
+
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 0, 5],
+		"FactoryCreationER": "error",
+		"RoverCreationER": "error"
+	},
+
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 0, 0],
+		"FactoryCreationER": "error",
+		"RoverCreationER": "error"
+	},
+
+	{
+		"RefData": "MarsRoverRefDataX.jason",
+		"Plateau": [0, 0, 5, 5],
+		"FactoryCreationER": "error",
+		"RoverCreationER": "error"
+	}
+
+]

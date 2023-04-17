@@ -1,0 +1,51 @@
+2023/04/03 12:27:22 Invalid command! 
+2023/04/03 12:29:21 Invalid command! 
+2023/04/03 12:30:03 Invalid command! 
+2023/04/03 12:36:28 runAppInvalid command! 
+2023/04/03 13:18:56 Invalid command! 
+Invalid command! 2023/04/03 13:18:56 utilFuncs.go:39: Some error has occurred...
+2023/04/03 13:28:46 Invalid command! 
+2023/04/03 13:35:34  Commands execution for rover 0 is discontinued!Invalid command! 
+2023/04/03 13:36:59 Invalid command!  - Commands execution for rover 1 is discontinued!
+2023/04/04 16:37:57  - Commands execution for rover 1 is discontinued!
+2023/04/04 16:40:58 Invalid command!  - Commands execution for rover 1 is discontinued!
+2023/04/05 12:16:11  - Commands execution for rover 1 is discontinued!
+2023/04/06 10:18:27 <nil>
+2023/04/06 10:27:09 Invalid cardinal!
+2023/04/06 16:50:16 Invalid cardinal!
+2023/04/06 16:50:25 Invalid cardinal!
+2023/04/06 18:01:24 Mars Rover Factory is not initialised!
+2023/04/06 18:02:39 Mars Rover Factory is not initialised!
+2023/04/06 18:02:48 Mars Rover Factory is not initialised!
+2023/04/06 18:33:43 Invalid X!
+2023/04/07 22:38:39 Invalid cardinal!
+2023/04/07 22:40:35 Invalid command! 
+2023/04/08 15:08:03 Invalid Plateau Reference data!
+2023/04/08 15:18:11 Invalid Plateau Reference data!
+2023/04/08 15:44:11 marsrover : Invalid X!
+2023/04/11 10:45:24 marsrover : Invalid Plateau Reference data!
+2023/04/11 10:47:11 marsrover : Invalid Plateau Reference data!
+2023/04/12 15:14:58 marsrover : Invalid command! 
+2023/04/12 15:15:16 marsrover : Invalid Plateau Reference data!
+2023/04/12 16:01:43 open /GoProjects/MR3/config/roverRefData.jason: The system cannot find the file specified.
+2023/04/13 14:46:31 marsrover : Invalid Plateau Reference data!
+2023/04/13 14:54:09 open %!s(<nil>): The filename, directory name, or volume label syntax is incorrect.
+2023/04/13 14:55:07 open /GoProjects/MR3/config/MarsRoverRefData.jaso: The system cannot find the file specified.
+2023/04/13 14:56:54 marsrover : Invalid Plateau Reference data!
+2023/04/16 07:35:18 marsrover : Invalid cardinal reference data!
+2023/04/16 07:36:27 marsrover : Invalid cardinal reference data!
+2023/04/16 07:38:45 marsrover : Invalid cardinal reference data!
+2023/04/16 12:37:52 marsrover : Invalid Plateau Reference data!
+2023/04/16 12:39:06 marsrover : Invalid cardinal!
+2023/04/17 11:48:00 json: cannot unmarshal array into Go struct field MarsRoverReferenceDataDepInj.commands of type string
+2023/04/17 11:49:03 marsrover : Invalid command! 
+2023/04/17 11:50:45 marsrover : Invalid command! 
+2023/04/17 11:55:40 marsrover : Invalid command! 
+2023/04/17 11:57:04 marsrover : Invalid command! 
+2023/04/17 12:04:00 marsrover : Invalid cardinal!
+2023/04/17 12:22:43 marsrover : Invalid cardinal!
+2023/04/17 12:23:29 marsrover : Invalid cardinal!
+2023/04/17 14:03:03 marsrover : Invalid cardinal!
+2023/04/17 14:31:56 marsrover : Invalid cardinal!
+2023/04/17 14:32:27 marsrover : Invalid cardinal!
+2023/04/17 14:45:40 marsrover : Invalid cardinal!

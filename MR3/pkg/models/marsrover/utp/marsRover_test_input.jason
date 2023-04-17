@@ -1,0 +1,51 @@
+[
+		{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 5, 5],
+		"MarsRoverInput": ["3", "3", "X"],
+		"MarsRoverCommands": "",
+		"MarsRoverOutput": "",
+		"FactoryErrorExp": "",
+		"RoverErrorExp": "error"
+	},
+
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 5, 5],
+		"MarsRoverInput": ["1", "2", "N"],
+		"MarsRoverCommands": "LMLMLMLMM",
+		"MarsRoverOutput": "13N",
+		"FactoryErrorExp": "",
+		"RoverErrorExp": ""
+	}, 
+
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 5, 5],
+		"MarsRoverInput": ["3", "3", "E"],
+		"MarsRoverCommands": "MMRMMRMRRM",
+		"MarsRoverOutput": "51E",
+		"FactoryErrorExp": "",
+		"RoverErrorExp": ""
+	},
+	
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 5, 5],
+		"MarsRoverInput": ["3", "3", "E"],
+		"MarsRoverCommands": "b",
+		"MarsRoverOutput": "33E",
+		"FactoryErrorExp": "",
+		"RoverErrorExp": ""
+	},
+
+	{
+		"RefData": "MarsRoverRefDataT.jason",
+		"Plateau": [0, 0, 5, 5],
+		"MarsRoverInput": ["3", "3", "E"],
+		"MarsRoverCommands": "Mb",
+		"MarsRoverOutput": "43E",
+		"FactoryErrorExp": "",
+		"RoverErrorExp": ""
+	}
+]
