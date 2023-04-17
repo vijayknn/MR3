@@ -1,0 +1,5 @@
+{
+	"MarsRoverRefdataFile": "/GoProjects/MR3/config/MarsRoverRefData.jason",
+	"MarsRoverLogFile": "/GoProjects/MR3/logs/MarsRoverAppErrorLog.txt",
+	"GenericErrorMsg": "An error occured. Pease raise with support team!"
+}
